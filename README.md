@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and deployment of an Azure Virtual Mach
 
 - Azure Account (create your free account <a href="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_Cj0KCQjw0IGnBhDUARIsAMwFDLkdUQC7p5LbZsFOjKsEkUjWR2TwopCr0I1iHxT3yTWBCUmxX5lQTyYaAkD9EALw_wcB_k_&OCID=AIDcmmfq865whp_SEM__k_Cj0KCQjw0IGnBhDUARIsAMwFDLkdUQC7p5LbZsFOjKsEkUjWR2TwopCr0I1iHxT3yTWBCUmxX5lQTyYaAkD9EALw_wcB_k_&gad=1&gclid=Cj0KCQjw0IGnBhDUARIsAMwFDLkdUQC7p5LbZsFOjKsEkUjWR2TwopCr0I1iHxT3yTWBCUmxX5lQTyYaAkD9EALw_wcB">here</a>)
 - <a href="https://github.com/NathanSuguitan/Azure-ResourceGroups">Resource Group</a> deployed within Azure
-- For macOS users a <a href="https://apps.apple.com/app/microsoft-remote-desktop/id1295203466?mt=12">Remote Desktop Client</a>
+- A <a href="https://apps.apple.com/app/microsoft-remote-desktop/id1295203466?mt=12">Remote Desktop Client</a> for macOS users
 
 <h2>Deployment Steps</h2>
 
