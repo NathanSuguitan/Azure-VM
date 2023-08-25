@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and deployment of an Azure Virtual Mach
 1. Sign in to the [Azure portal](https://portal.azure.com).
 2. Create a <a href="https://github.com/NathanSuguitan/Azure-ResourceGroups">resource group</a>
 3. After the resource group has been successfully deployed, enter **virtual machines** in the search
-4. Under **services**, select **virtual machines**
+4. Under **services**, select **virtual machine**
 
 ![image](https://github.com/NathanSuguitan/Azure-VM/assets/138082246/a38d6f5a-02ac-44bf-a498-4e0dee2a81bd)
 
